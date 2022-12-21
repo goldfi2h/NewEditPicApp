@@ -18,6 +18,9 @@ namespace NewPicEditApp
         int max;
         double cumulativesum=0;
         internal Bitmap picboxCopyMap;
+
+
+        //to jest konstruktor okienka PicForm
         public PicForm() { InitializeComponent(); }
         private void PicForm_Load(object sender, EventArgs e) { }
         private void bOpen_Click(object sender, EventArgs e)
@@ -27,7 +30,11 @@ namespace NewPicEditApp
                 dialog.Filter = "bmp files(*.bmp)|*.bmp| jpg files(.*jpg)|*.jpg| PNG files(.*png)|*.png| All Files(*.*)|*.**";
                 if (dialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
                 {
-                    this.picbox.Image = new Bitmap(dialog.FileName);
+                    this.picboxCopyMap = new Bitmap(dialog.FileName);
+                    this.picbox.Image = picboxCopyMap;
+                    Picture mypicture = new Picture(picboxCopyMap);
+
+                    Histogram myHistogram = new Histogram(picboxCopyMap); //w zasadzie to nie muszę tutaj wtedy czyścić tych tablic, bo każdy obiekt ma swoje prywatne
                     //czyszczenie tablic histogramów żeby przy załadowaniu nowego obrazka były puste
                     TablesMethods.ZeroTables(RHistogram);
                     TablesMethods.ZeroTables(GHistogram);
@@ -36,7 +43,7 @@ namespace NewPicEditApp
                     cumulativesum = 0;
 
                     //histogram musi tu zaczac istniec
-                    this.picboxCopyMap = new Bitmap(dialog.FileName);
+                    
                     for (int x = 0; x < this.picboxCopyMap.Width; ++x)
                     {
                         for (int y = 0; y < this.picboxCopyMap.Height; ++y)

@@ -11,3 +11,16 @@ C:\Users\natwi\OneDrive\Documents\c#\NewPicEditApp\obj\Debug\NewPicEditApp.cspro
 C:\Users\natwi\OneDrive\Documents\c#\NewPicEditApp\obj\Debug\NewPicEditApp.exe
 C:\Users\natwi\OneDrive\Documents\c#\NewPicEditApp\obj\Debug\NewPicEditApp.pdb
 C:\Users\natwi\OneDrive\Documents\c#\NewPicEditApp\obj\Debug\NewPicEditApp.PropQuestion.resources
+C:\Users\natwi\OneDrive\Documents\GitHub\NewPicEdit\NewEditPicApp\NewPicEditApp\bin\Debug\NewPicEditApp.exe.config
+C:\Users\natwi\OneDrive\Documents\GitHub\NewPicEdit\NewEditPicApp\NewPicEditApp\bin\Debug\NewPicEditApp.exe
+C:\Users\natwi\OneDrive\Documents\GitHub\NewPicEdit\NewEditPicApp\NewPicEditApp\bin\Debug\NewPicEditApp.pdb
+C:\Users\natwi\OneDrive\Documents\GitHub\NewPicEdit\NewEditPicApp\NewPicEditApp\obj\Debug\NewPicEditApp.csproj.AssemblyReference.cache
+C:\Users\natwi\OneDrive\Documents\GitHub\NewPicEdit\NewEditPicApp\NewPicEditApp\obj\Debug\NewPicEditApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\natwi\OneDrive\Documents\GitHub\NewPicEdit\NewEditPicApp\NewPicEditApp\obj\Debug\NewPicEditApp.PicForm.resources
+C:\Users\natwi\OneDrive\Documents\GitHub\NewPicEdit\NewEditPicApp\NewPicEditApp\obj\Debug\NewPicEditApp.HistogramForm.resources
+C:\Users\natwi\OneDrive\Documents\GitHub\NewPicEdit\NewEditPicApp\NewPicEditApp\obj\Debug\NewPicEditApp.Properties.Resources.resources
+C:\Users\natwi\OneDrive\Documents\GitHub\NewPicEdit\NewEditPicApp\NewPicEditApp\obj\Debug\NewPicEditApp.PropQuestion.resources
+C:\Users\natwi\OneDrive\Documents\GitHub\NewPicEdit\NewEditPicApp\NewPicEditApp\obj\Debug\NewPicEditApp.csproj.GenerateResource.cache
+C:\Users\natwi\OneDrive\Documents\GitHub\NewPicEdit\NewEditPicApp\NewPicEditApp\obj\Debug\NewPicEditApp.csproj.CoreCompileInputs.cache
+C:\Users\natwi\OneDrive\Documents\GitHub\NewPicEdit\NewEditPicApp\NewPicEditApp\obj\Debug\NewPicEditApp.exe
+C:\Users\natwi\OneDrive\Documents\GitHub\NewPicEdit\NewEditPicApp\NewPicEditApp\obj\Debug\NewPicEditApp.pdb
